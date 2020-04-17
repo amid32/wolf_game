@@ -1,3 +1,3 @@
 # Qurd Oyunu
-<br/>
-![wolf game](/wolf_game.jpg)
+
+![banner sekil](wolf_game.jpg)
